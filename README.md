@@ -7,6 +7,8 @@ Use **COMPOSER** for cloning the project
 
 Generate a **new private key** in firebase and paste the key in **resources\credentials\firebase_credentials.json**
 
+Copy the .env file and modify it
+
 All set run the project
 
 ```bash
